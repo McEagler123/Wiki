@@ -13,7 +13,8 @@ Slimefun adds the following 9 dusts as [resources](https://github.com/Slimefun/S
 Dusts can be obtained by processing [Sifted Ore](https://github.com/Slimefun/Slimefun4/wiki/Sifted-Ore) through an [Ore Washer](https://github.com/Slimefun/Slimefun4/wiki/Ore-Washer) or an [Electric Dust Washer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Dust-Washer).<br>
 There is an even chance of getting any kind of dust during the process (= ~11.11% chance).
  
-They can also be produced by crushing the corresponding [ingot](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Metals) in an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer).
+They can also be produced by crushing the corresponding [ingot](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Metals) in an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer). 
+Side Note: Iron, copper, and gold ores can be turned into dusts in the ore chrusher.
 
 ## Usage
 Dusts can be smelted into [alloys](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Alloys) or their respective [ingots](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Metals) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery).<br>
