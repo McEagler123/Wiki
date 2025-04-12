@@ -15,7 +15,7 @@ There is an even chance of getting any kind of dust during the process (= ~11.11
  
 They can also be produced by crushing the corresponding [ingot](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Metals) in an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer). 
 
-Side Note: Iron, copper, and gold ores can be turned into dusts in the ore chrusher.
+Side Note: Iron, copper, and gold ores can be turned into dusts in the ore crusher.
 
 ## Usage
 Dusts can be smelted into [alloys](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Alloys) or their respective [ingots](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Metals) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery).<br>
