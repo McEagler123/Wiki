@@ -14,6 +14,7 @@ Dusts can be obtained by processing [Sifted Ore](https://github.com/Slimefun/Sli
 There is an even chance of getting any kind of dust during the process (= ~11.11% chance).
  
 They can also be produced by crushing the corresponding [ingot](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Metals) in an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer). 
+
 Side Note: Iron, copper, and gold ores can be turned into dusts in the ore chrusher.
 
 ## Usage
