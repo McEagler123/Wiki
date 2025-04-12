@@ -12,3 +12,5 @@ You can also place an [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/
 ## Usage
 The Ore Crusher is mainly used to crush ores into their minerals, but it has other uses too.<br>
 Check out the Ore Crusher in the Slimefun Guide in-game for more recipes.
+The Ore crusher can be used to make dusts such as copper, gold, and iron. 
+When Crushed, an ore generally drops 2 dusts of that material.
